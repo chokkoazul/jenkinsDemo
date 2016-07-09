@@ -38,7 +38,7 @@
 						<deployable>
 							<groupId>${project.groupId}</groupId>
 							<artifactId>${project.artifactId}</artifactId>
-							<type>war</type>
+							<type>warrrrr</type>
 							<properties>
 								<context>/jenkinsDemo</context>
 							</properties>
